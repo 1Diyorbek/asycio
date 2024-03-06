@@ -32,3 +32,6 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
+# await ishlatilgan funksiyasini kutib turadi await qatoridagi kodlarni ishlatib olguncha
+# run metodini oxirida qo'llash kk.
